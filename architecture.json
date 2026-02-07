@@ -1,0 +1,160 @@
+{
+  "book_id": "digital_native_satirical_prose_past_future",
+  "title": "The Vigilant Coma",
+  "tagline": "A digital native finds a book that reads her reality better than her feed.",
+  "target_words": 70000,
+  "actual_words": 73957,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Digital vs. Analog Consciousness",
+    "The Archaeology of Obsolete Media",
+    "Satirical Critique of 'Feed' Culture",
+    "Nostalgia as a Constructed Lie"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ghost-Farts of Dead Skin Cells",
+      "words": 3082
+    },
+    {
+      "ch": 2,
+      "title": "The Anomaly in Blue Cloth",
+      "words": 3082
+    },
+    {
+      "ch": 3,
+      "title": "A Transmission from an Adjacent Frequency",
+      "words": 3082
+    },
+    {
+      "ch": 4,
+      "title": "The Itch the City Cannot Scratch",
+      "words": 3082
+    },
+    {
+      "ch": 5,
+      "title": "Cataloguing the Literary Landfill",
+      "words": 3082
+    },
+    {
+      "ch": 6,
+      "title": "Subtext of the Species",
+      "words": 3082
+    },
+    {
+      "ch": 7,
+      "title": "The Efficient Melancholy of a Metronome",
+      "words": 3082
+    },
+    {
+      "ch": 8,
+      "title": "Frictionless Surfaces, Profound Disconnection",
+      "words": 3082
+    },
+    {
+      "ch": 9,
+      "title": "Elegies in the Comment Section",
+      "words": 3082
+    },
+    {
+      "ch": 10,
+      "title": "The Author Who Wasn't There",
+      "words": 3082
+    },
+    {
+      "ch": 11,
+      "title": "Aesthetic is Chemistry with Good PR",
+      "words": 3082
+    },
+    {
+      "ch": 12,
+      "title": "The Lukewarm Echo of a Bean",
+      "words": 3082
+    },
+    {
+      "ch": 13,
+      "title": "Cathédrals of Outrage",
+      "words": 3082
+    },
+    {
+      "ch": 14,
+      "title": "The Book Begins to Answer Back",
+      "words": 3082
+    },
+    {
+      "ch": 15,
+      "title": "Chasing a Ghost in the Machine",
+      "words": 3082
+    },
+    {
+      "ch": 16,
+      "title": "The Papyrus & Pixel Paradox",
+      "words": 3082
+    },
+    {
+      "ch": 17,
+      "title": "A Flaneur with a Migraine",
+      "words": 3082
+    },
+    {
+      "ch": 18,
+      "title": "The Algorithm of the Analog",
+      "words": 3082
+    },
+    {
+      "ch": 19,
+      "title": "When the Subtext Becomes Text",
+      "words": 3082
+    },
+    {
+      "ch": 20,
+      "title": "The Final Entry",
+      "words": 3082
+    },
+    {
+      "ch": 21,
+      "title": "The Library as a Geological Feature",
+      "words": 3082
+    },
+    {
+      "ch": 22,
+      "title": "Logging Off, Tuning In",
+      "words": 3082
+    },
+    {
+      "ch": 23,
+      "title": "The Last Vibration",
+      "words": 3082
+    },
+    {
+      "ch": 24,
+      "title": "Walking Through the Dream",
+      "words": 3081
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Sam finds a second anomalous book, this one predicting a specific, mundane event from her own past with eerie accuracy.",
+      "Create a series of 'Culinary Adventures for One' recipe cards based on the cookbook Sam finds, each with a satirical, melancholic, or philosophical headnote.",
+      "Write a short story from the perspective of Leo, detailing his transition from UI designer to bookshop owner and his true motivation for buying 'Papyrus & Pixel'.",
+      "Compose the 'transmission' Sam receives when she finally puts her phone down for 24 hours, written in the style of the blue book's prose."
+    ],
+    "technical": [
+      "Build a 'Literary Landfill' generator that creates satirical book titles, blurbs, and inscriptions for obsolete genres (e.g., 1970s self-help, 1980s corporate thrillers).",
+      "Design a 'Vigilant Coma' browser extension that replaces social media feed content with randomly generated, poetic observations about digital life in the style of the blue book."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Kurt Vonnegut",
+      "Joan Didion",
+      "Douglas Coupland",
+      "Jorge Luis Borges"
+    ]
+  },
+  "cover_prompt": "A young woman in a stark, minimalist apartment holds a weathered, analog paperback book whose pages glow with a shifting, holographic light, while the digital feed on the wall-mounted screen behind her fractures and glitches into static, [Detailed Scene & Context: the scene is rich with contrasting details: bioluminescent data cables spill from a sleek terminal like roots, tangling with the frayed, fabric bookmark of the book, and obsolete media like cassette tapes and a cracked e-reader are arranged on a shelf like archaeological artifacts], [Artistic Style & Medium: in the atmospheric, conceptually layered, and digitally-painted style of Simon Stålenhag and the textured, melancholic realism of Kent Williams, blending futuristic decay with intimate detail], [Composition & Camera: book cover framing, centered composition with a dramatic low-angle shot looking up at the woman, emphasizing the book as a powerful, radiant object against the failing digital background], [Lighting & Color Palette: dramatic volumetric lighting where the cool, sterile blue light of the room is pierced by the warm, organic amber and gold glow emanating from the book's pages, creating deep shadows and high contrast], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
