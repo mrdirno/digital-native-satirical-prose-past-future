@@ -1,6 +1,10 @@
+# Chapter 1
+
 ## CHAPTER ONE
 
-The first thing you need to understand is that the smell of old paper is a lie. It’s not wisdom. It’s not nostalgia. It’s mold spores and acidic decay and the ghost-farts of a million dead skin cells. I was breathing in a cemetery, and the corpse was *Middlemarch*.
+Caleb’s entire adolescence was a curated feed of other people’s nostalgia—sepia-toned records he couldn’t play, Polaroid filters over digital shots, yearning for a tactile past his hands had never dirtied. His own history lived in a cloud, password-protected and glitching.
+
+
 
 “It’s not a vibe, Leo. It’s a biohazard.”
 
@@ -195,6 +199,8 @@ Later, walking home through the dreaming city, the blue book felt heavier in my 
 The city’s neon flickered. A traffic light succumbed from green to red. I was a data packet, changing course.
 
 ---
+# Chapter 2
+
 ## CHAPTER TWO
 
 The car service was a black sedan so pristine it felt like a violation to get in with our bags, which contained, in my case, dubious laundry and a mysterious blue book, and in Mara’s, several hard drives and a sense of impending technological drama. The driver was a slab of silent competence. He nodded once when we gave the address, and then the world outside became a blur of highway gray and fleeing trees.
@@ -414,6 +420,8 @@ He’d brought us to see what was growing in the dark.
 And it had just said hello.
 
 ---
+# Chapter 3
+
 ## CHAPTER THREE
 
 The silence in the server room was no longer just the hum of machines. It was a held breath. The words **You should see the root cellar** hung in the air between us, pixel ghosts on a dead screen.
